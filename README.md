@@ -207,3 +207,4 @@ Closest Pair problem <br>
 24 Game <br>
 TED Talk Downloader  <br>
 Image Type Converter <br>
+News Summeriser <br>
