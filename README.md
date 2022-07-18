@@ -208,3 +208,5 @@ Closest Pair problem <br>
 TED Talk Downloader  <br>
 Image Type Converter <br>
 News Summeriser <br>
+Create a pencil sketch using python <br>
+Create Interactive plots using python <br>
