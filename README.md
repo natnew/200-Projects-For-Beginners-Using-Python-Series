@@ -1,31 +1,31 @@
 # 200-Projects-For-Beginners-Using-Python-Series
 
-Hello World <br>
-Shutdown And Restart <br>
-Find A String <br>
-Password Generator <br>
-Secret Messages <br>
-Countdown Timer <br>
-Rock, Paper, Scissors <br>
-Bulk Rename Files <br>
-Friendship Calculator <br>
-Documenting Code <br>
-Web Scraping Github <br>
-Instagram Profile Picture Downloader <br>
-Pop Up Notification <br>
-Get Weather Data <br>
-Teach A Computer To Read <br>
-Team Chooser <br>
-Word Guessing <br>
-Reverse A Python List <br>
-Throw Dice <br>
-Download A PDF <br>
-Binary Search <br>
-Hangman <br>
-Zookeeper <br>
-Chatty Bot <br>
-Calculate Python code <br>
-BMI Calculator <br>
+[Hello World](https://github.com/natnew/100-Python-Projects.git) <br>
+[Shutdown And Restart](https://github.com/natnew/100-Python-Projects.git) <br>
+[Find A String](https://github.com/natnew/100-Python-Projects.git) <br>
+[Password Generator](https://github.com/natnew/100-Python-Projects.git) <br>
+[Secret Messages](https://github.com/natnew/100-Python-Projects.git) <br>
+[Countdown Timer](https://github.com/natnew/100-Python-Projects.git) <br>
+[Rock, Paper, Scissors](https://github.com/natnew/100-Python-Projects.git) <br>
+[Bulk Rename Files](https://github.com/natnew/100-Python-Projects.git) <br>
+[Friendship Calculator](https://github.com/natnew/100-Python-Projects.git) <br>
+[Documenting Code](https://github.com/natnew/100-Python-Projects.git) <br>
+[Web Scraping Github](https://github.com/natnew/100-Python-Projects.git) <br>
+[Instagram Profile Picture Downloader](https://github.com/natnew/100-Python-Projects.git) <br>
+[Pop Up Notification](https://github.com/natnew/100-Python-Projects.git) <br>
+[Get Weather Data](https://github.com/natnew/100-Python-Projects.git) <br>
+[Teach A Computer To Read](https://github.com/natnew/100-Python-Projects.git) <br>
+[Team Chooser](https://github.com/natnew/100-Python-Projects.git) <br>
+[Word Guessing](https://github.com/natnew/100-Python-Projects.git) <br>
+[Reverse A Python List](https://github.com/natnew/100-Python-Projects.git) <br>
+[Throw Dice](https://github.com/natnew/100-Python-Projects.git) <br>
+[Download A PDF](https://github.com/natnew/100-Python-Projects.git) <br>
+[Binary Search](https://github.com/natnew/100-Python-Projects.git) <br>
+[Hangman](https://github.com/natnew/100-Python-Projects.git) <br>
+[Zookeeper](https://github.com/natnew/100-Python-Projects.git) <br>
+[Chatty Bot](https://github.com/natnew/100-Python-Projects.git) <br>
+[Calculate Python code](https://github.com/natnew/100-Python-Projects.git) <br>
+[BMI Calculator](https://github.com/natnew/100-Python-Projects.git) <br>
 Acronym Generator <br>
 Generate A Story <br>
 Crack A Code <br>
