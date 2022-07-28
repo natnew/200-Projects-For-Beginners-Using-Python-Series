@@ -211,5 +211,5 @@ News Summeriser <br>
 Create a pencil sketch using python <br>
 Create Interactive plots using python <br>
 
-[![HitCount](http://hits.dwyl.com/natnew/natnew/200-Projects-For-Beginners-Using-Python-Series/README.md.svg)](http://hits.dwyl.com/natnew/natnew/200-Projects-For-Beginners-Using-Python-Series/README.md/edit/main/README.md) 
+[![HitCount](http://hits.dwyl.com/natnew/natnew/200-Projects-For-Beginners-Using-Python-Series.md.svg)](http://hits.dwyl.com/natnew/natnew/200-Projects-For-Beginners-Using-Python-Series.md/edit/main/README.md) 
 
